@@ -38,7 +38,7 @@
 
 ```bash
 # Clone repository
-git clone https://github.com/YOUR_USERNAME/instant-delivery-app.git
+git clone https://github.com/evenyakuz/instant-delivery-app.git
 cd instant-delivery-app
 
 # Install dependencies
